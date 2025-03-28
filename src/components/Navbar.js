@@ -6,7 +6,7 @@ const Navbar = () => {
     const { darkMode, setDarkMode } = useContext(ThemeContext);
 
     return (
-        <nav className="sticky top-0 z-50 duration-300">
+        <nav className="top-0 z-50 duration-300">
             <div className="container py-2 flex justify-between items-center md:justify-between">
                 <div className="px-10 py-1 font-bold font-serif text-xl text-gray-800 dark:text-white">
                     {`<EN/>`}

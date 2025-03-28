@@ -4,7 +4,7 @@ import Profile2 from "../../assets/Profile2.jpeg";
 
 const Home = () => {
     return (
-        <section className="font-serif flex flex-col lg:flex-row items-center pt-5 pb-5 justify-center min-h-screen px-6 lg:px-20 gap-8">
+        <section className="font-serif flex flex-col lg:flex-row items-center pt-5 pb-5 justify-center px-6 lg:px-20 gap-8">
             <div className="flex flex-col justify-center items-center lg:items-start text-center lg:text-left text-black dark:text-white max-w-lg">
                 <h1 className="text-4xl sm:text-5xl font-semibold mb-4 leading-tight">{`<Esther`} <br /> {`Ngeno/>`}</h1>
                 <h2 className="text-2xl sm:text-3xl font-semibold mb-4">Full Stack Developer.</h2>
