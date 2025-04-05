@@ -8,7 +8,7 @@ import Contact from  "./components/sections/Contact";
 
 function App() {
   return (
-    <div className='plg:px-20 bg-gradient-to-b scroll-smooth from-fuchsia-200 via-fuchsia-100 to-fuchsia-50 dark:bg-gradient-to-b dark:from-fuchsia-950 dark:via-fuchsia-950 dark:to-black transition-colors'>
+    <div className='plg:px-20 bg-gradient-to-b scroll-smooth from-indigo-100 via-indigo-100 to-indigo-50 dark:bg-gradient-to-b dark:from-indigo-950 dark:via-indigo-950 dark:to-black transition-colors'>
       <Navbar />
       <Home id="home" />
       <div className="pt-5 pb-5 flex flex-col sm:flex-row gap-2 items-center justify-center px-1 py-1 lg:px-5 item-center">

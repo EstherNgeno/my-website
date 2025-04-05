@@ -18,7 +18,7 @@ const Contact = () => {
         e.preventDefault()
           
         emailjs.sendForm(SERVICE_ID, TEMPLATE_ID, e.target, PUBLIC_KEY).then((result) => {
-            altert("Message Sent!");
+            alert("Message Sent!");
             setFormData({name:"", email:"", message:""})
         }).catch(() => alert("Oops, something went wrong! Please try again"));
     };

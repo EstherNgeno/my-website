@@ -39,62 +39,62 @@ const About = () => {
             <div className="flex justify-center">
                 <ul className="grid grid-cols-2 sm:grid-cols-3 gap-4">
                     <li>
-                        <div className="w-[120px] h-[120px] bg-gray-200 border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
+                        <div className="w-[120px] h-[120px] bg-white border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
                         <FaHtml5 className="w-10 h-10"/>
                         <span className="text-base">HTML</span></div>
                     </li>
                     <li>
-                        <div className="w-[120px] h-[120px] bg-gray-200 border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
+                        <div className="w-[120px] h-[120px] bg-white border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
                         <FaCss3Alt className="w-10 h-10"/>
                         <span className="text-base">CSS</span></div>
                     </li>
                     <li>
-                        <div className="w-[120px] h-[120px] bg-gray-200 border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
+                        <div className="w-[120px] h-[120px] bg-white border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
                         <SiJavascript className="w-10 h-10"/>
                         <span className="text-base">JavaScript</span></div>
                     </li>
                     <li>
-                        <div className="w-[120px] h-[120px] bg-gray-200 border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
+                        <div className="w-[120px] h-[120px] bg-white border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
                         <BiSolidFileJson className="w-10 h-10"/>
                         <span className="text-base">JSON</span></div>
                     </li>
                     <li>
-                        <div className="w-[120px] h-[120px] bg-gray-200 border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
+                        <div className="w-[120px] h-[120px] bg-white border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
                         <FaReact className="w-10 h-10"/>
                         <span className="text-base">React</span></div>
                     </li>
                     <li>
-                        <div className="w-[120px] h-[120px] bg-gray-200 border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
+                        <div className="w-[120px] h-[120px] bg-white border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
                         <RiTailwindCssFill className="w-10 h-10"/>
                         <span className="text-base">Tailwind CSS</span></div>
                     </li>
                     <li>
-                        <div className="w-[120px] h-[120px] bg-gray-200 border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
+                        <div className="w-[120px] h-[120px] bg-white border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
                         <FaPython className="w-10 h-10"/>
                         <span className="text-base">Python</span></div>
                     </li>
                     <li>
-                        <div className="w-[120px] h-[120px] bg-gray-200 border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
+                        <div className="w-[120px] h-[120px] bg-white border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
                         <SiPostgresql className="w-10 h-10"/>
                         <span className="text-base">PostgreSQL</span></div>
                     </li>
                     <li>
-                        <div className="w-[120px] h-[120px] bg-gray-200 border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
+                        <div className="w-[120px] h-[120px] bg-white border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
                         <SiSqlalchemy className="w-10 h-10"/>
                         <span className="text-base">SQLAlchemy</span></div>
                     </li>
                     <li>
-                        <div className="w-[120px] h-[120px] bg-gray-200 border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
+                        <div className="w-[120px] h-[120px] bg-white border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
                         <FaGitSquare className="w-10 h-10"/>
                         <span className="text-base">Git</span></div>
                     </li>
                     <li>
-                        <div className="w-[120px] h-[120px] bg-gray-200 border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
+                        <div className="w-[120px] h-[120px] bg-white border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
                         <SiFlask className="w-10 h-10"/>
                         <span className="text-base">Flask</span></div>
                     </li>
                     <li>
-                        <div className="w-[120px] h-[120px] bg-gray-200 border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
+                        <div className="w-[120px] h-[120px] bg-white border border-gray-200 dark:bg-white dark:border-gray-900 rounded-xl flex flex-col gap-4 justify-center items-center group">
                         <FaFigma className="w-10 h-10"/>
                         <span className="text-base">Figma</span></div>
                     </li>

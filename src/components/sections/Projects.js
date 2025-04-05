@@ -33,13 +33,13 @@ const Projects = () => {
                 <div className="flex items-center pt-2 px-2 pb-2">
                     <div className="flex flex-row flex-wrap items-start gap-1">
                         <a href="https://github.com/Moringa-SDF-PTO7/lateshow-esther-ngeno">
-                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-fuchsia-100 text-black flex gap-2 px-2 py-1 text-[12px]"> <AiFillGithub className="w-7 h-7" /> GitHub</div>
+                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-blue-400 text-black flex gap-2 px-2 py-1 text-[12px]"> <AiFillGithub className="w-7 h-7" /> GitHub</div>
                         </a>
                         <a href="https://lateshow-esther-ngeno.onrender.com/">
-                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-fuchsia-100 text-black flex gap-2 px-2 py-1 text-[12px]"> <FaArrowUpRightFromSquare className="w-7 h-7" /> Live Link</div>
+                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-gradient-to-r from-fuchsia-500 via-purple-500 to-indigo-500 text-black flex gap-2 px-2 py-1 text-[12px]"> <FaArrowUpRightFromSquare className="w-7 h-7" /> Live Link</div>
                         </a>
                         <a href="https://lateshow-esther-ngeno.onrender.com/">
-                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-fuchsia-100 text-black flex gap-2 px-2 py-1 text-[12px]"> <AiFillYoutube className="w-7 h-7" /> YouTube</div>
+                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-gradient-to-r from-fuchsia-500 via-purple-500 to-indigo-500 text-black flex gap-2 px-2 py-1 text-[12px]"> <AiFillYoutube className="w-7 h-7" /> YouTube</div>
                         </a>
                     </div>
                 </div>
@@ -64,13 +64,13 @@ const Projects = () => {
                 <div className="flex items-center pt-2 px-2 pb-2">
                     <div className="flex flex-row flex-wrap items-start gap-1">
                         <a href="https://github.com/Moringa-SDF-PTO7/lateshow-esther-ngeno">
-                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-fuchsia-100 text-black flex gap-2 px-2 py-1 text-[12px]"> <AiFillGithub className="w-7 h-7" /> GitHub</div>
+                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-gradient-to-r from-fuchsia-500 via-purple-500 to-indigo-500 text-black flex gap-2 px-2 py-1 text-[12px]"> <AiFillGithub className="w-7 h-7" /> GitHub</div>
                         </a>
                         <a href="https://lateshow-esther-ngeno.onrender.com/">
-                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-fuchsia-100 text-black flex gap-2 px-2 py-1 text-[12px]"> <FaArrowUpRightFromSquare className="w-7 h-7" /> Live Link</div>
+                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-gradient-to-r from-fuchsia-500 via-purple-500 to-indigo-500 text-black flex gap-2 px-2 py-1 text-[12px]"> <FaArrowUpRightFromSquare className="w-7 h-7" /> Live Link</div>
                         </a>
                         <a href="https://lateshow-esther-ngeno.onrender.com/">
-                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-fuchsia-100 text-black flex gap-2 px-2 py-1 text-[12px]"> <AiFillYoutube className="w-7 h-7" /> YouTube</div>
+                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-gradient-to-r from-fuchsia-500 via-purple-500 to-indigo-500 text-black flex gap-2 px-2 py-1 text-[12px]"> <AiFillYoutube className="w-7 h-7" /> YouTube</div>
                         </a>
                     </div>
                 </div>
@@ -95,13 +95,13 @@ const Projects = () => {
                 <div className="flex items-center pt-2 px-2 pb-2">
                     <div className="flex flex-row flex-wrap items-start gap-1">
                         <a href="https://github.com/Moringa-SDF-PTO7/lateshow-esther-ngeno">
-                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-fuchsia-100 text-black flex gap-2 px-2 py-1 text-[12px]"> <AiFillGithub className="w-7 h-7" /> GitHub</div>
+                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-gradient-to-r from-fuchsia-500 via-purple-500 to-indigo-500 text-black flex gap-2 px-2 py-1 text-[12px]"> <AiFillGithub className="w-7 h-7" /> GitHub</div>
                         </a>
                         <a href="https://lateshow-esther-ngeno.onrender.com/">
-                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-fuchsia-100 text-black flex gap-2 px-2 py-1 text-[12px]"> <FaArrowUpRightFromSquare className="w-7 h-7" /> Live Link</div>
+                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-gradient-to-r from-fuchsia-500 via-purple-500 to-indigo-500 text-black flex gap-2 px-2 py-1 text-[12px]"> <FaArrowUpRightFromSquare className="w-7 h-7" /> Live Link</div>
                         </a>
                         <a href="https://lateshow-esther-ngeno.onrender.com/">
-                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-fuchsia-100 text-black flex gap-2 px-2 py-1 text-[12px]"> <AiFillYoutube className="w-7 h-7" /> YouTube</div>
+                        <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-gradient-to-r from-fuchsia-500 via-purple-500 to-indigo-500 text-black flex gap-2 px-2 py-1 text-[12px]"> <AiFillYoutube className="w-7 h-7" /> YouTube</div>
                         </a>
                     </div>
                 </div>
