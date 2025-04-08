@@ -15,7 +15,7 @@ import { BiSolidFileJson } from "react-icons/bi";
 
 const About = () => {
     return (
-        <section className="font-serif lg:flex-row items-center pt-10 pb-5 px-6 lg:px-20 gap-8">
+        <section id="about" className="font-serif lg:flex-row items-center pt-10 pb-5 px-6 lg:px-20 gap-8">
             <div className="justify-start items-start lg:items-start lg:text-left pl-40 lg:pl-40 text-black dark:text-white">
             <h1 className="text-4xl sm:text-5xl font-semibold text-center mb-4 leading-tight">{`<About/>`}</h1>
             </div>
