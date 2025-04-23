@@ -4,6 +4,7 @@ import { AiFillGithub } from "react-icons/ai";
 import { FaArrowUpRightFromSquare } from "react-icons/fa6";
 import { AiFillYoutube } from "react-icons/ai";
 import Expensetracker from "../../assets/Expensetracker.png"
+import AdminDashboard from "../../assets/Responsive-Admin-Dashboard.jpg"
 
 
 const Projects = () => {
@@ -46,30 +47,30 @@ const Projects = () => {
             </div>
 
             <div className="rounded-lg bg-card text-card-foreground flex flex-col overflow-hidden border hover:shadow-lg transition-all duration-300 ease-out h-full">
-                <a className="block cursor-pointer" href="https://lateshow-esther-ngeno.onrender.com/">
-                <img alt="Expensetracker" className="h-30 w-full overflow-hidden object-cover object-top" src={Expensetracker}/>
+                <a className="block cursor-pointer" href="https://responsive-admin-dashboard.onrender.com">
+                <img alt="AdminDashboard" className="h-30 w-full overflow-hidden object-cover object-top" src={AdminDashboard}/>
                 </a>
                 <div className="flex flex-col px-2">
                     <div className="prose max-w-full text-pretty text-base text-muted-foreground">
-                        <p className="prose max-w-full text-pretty text-base text-muted-foreground">This is a small project that helped me master CRUD operations and APIs. I was able to implement JWT Authentication for Flask to enable implementation of user roles, register and login.</p>
+                        <p className="prose max-w-full text-pretty text-base text-muted-foreground">This is a practice project to sharpen my HTML, CSS and JavaScript skills. I was able to implement a completely responsive admin dashboard with light and dark mode functionality.</p>
                     </div>
                 </div>
                 <div className="text-base text-muted-foreground mt-auto flex flex-col px-2">
                     <div className="mt-2 flex flex-wrap gap-1">
-                        <div className="inline-flex items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-gray-300 dark:text-black px-1 py-0 text-[12px]">React</div>
-                        <div className="inline-flex items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-gray-300 dark:text-black px-1 py-0 text-[12px]">Flask</div>
-                        <div className="inline-flex items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-gray-300 dark:text-black px-1 py-0 text-[12px]">PostgreSQL</div>
+                        <div className="inline-flex items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-gray-300 dark:text-black px-1 py-0 text-[12px]">HTML</div>
+                        <div className="inline-flex items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-gray-300 dark:text-black px-1 py-0 text-[12px]">CSS</div>
+                        <div className="inline-flex items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 border-transparent bg-gray-300 dark:text-black px-1 py-0 text-[12px]">JavaScript</div>
                     </div>
                 </div>
                 <div className="flex items-center pt-2 px-2 pb-2">
                     <div className="flex flex-row flex-wrap items-start gap-1">
-                        <a href="https://github.com/Moringa-SDF-PTO7/lateshow-esther-ngeno">
+                        <a href="https://github.com/EstherNgeno/Responsive-Admin-Dashboard">
                         <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-black text-white flex gap-2 px-2 py-1 text-[12px]"> <AiFillGithub className="w-7 h-7" /> GitHub</div>
                         </a>
-                        <a href="https://lateshow-esther-ngeno.onrender.com/">
+                        <a href="https://responsive-admin-dashboard.onrender.com">
                         <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-black text-white flex gap-2 px-2 py-1 text-[12px]"> <FaArrowUpRightFromSquare className="w-7 h-7" /> Live Link</div>
                         </a>
-                        <a href="https://lateshow-esther-ngeno.onrender.com/">
+                        <a href="https://responsive-admin-dashboard.onrender.com">
                         <div className="items-center rounded-md border font-semibold transition-colors focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 bg-black text-white flex gap-2 px-2 py-1 text-[12px]"> <AiFillYoutube className="w-7 h-7" /> YouTube</div>
                         </a>
                     </div>
